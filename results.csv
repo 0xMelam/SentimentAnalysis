@@ -1,0 +1,37 @@
+Approach,Algorithm,Accuracy,Precision,Recall,F1-Score
+Machine Learning and Count Vectorizer,Logistic Regression,0.6963988,0.59596651,0.585607983,0.589813472
+Machine Learning and Count Vectorizer,SVM,0.72690897,0.629472704,0.556241378,0.550960248
+Machine Learning and Count Vectorizer,Multinomial NB,0.729076359,0.62143854,0.610205906,0.60617317
+Machine Learning and Count Vectorizer,Decision Tree,0.630710237,0.515476392,0.507569403,0.509774732
+Machine Learning and Count Vectorizer,KNN,0.593197733,0.48457108,0.438764579,0.444435455
+Machine Learning and Count Vectorizer,Random Forest,0.696065355,0.657321842,0.492439305,0.475900197
+Machine Learning and TfIdf Vectorizer,Logistic Regression,0.697399133,0.593818628,0.582979514,0.586922481
+Machine Learning and TfIdf Vectorizer,SVM,0.745248416,0.650190889,0.58615785,0.582596379
+Machine Learning and TfIdf Vectorizer,Multinomial NB,0.631543848,0.609646287,0.393974287,0.356226102
+Machine Learning and TfIdf Vectorizer,Decision Tree,0.609869957,0.502741735,0.497988107,0.499818328
+Machine Learning and TfIdf Vectorizer,KNN,0.275091697,0.441117718,0.34990042,0.203516281
+Machine Learning and TfIdf Vectorizer,Random Forest,0.693731244,0.657195505,0.487246922,0.469079827
+Machine Learning + Count Vectorizer + Text Preprocessing,Logistic Regression,0.676725575,0.578635443,0.570744781,0.574224808
+Machine Learning + Count Vectorizer + Text Preprocessing,SVM,0.727742581,0.648568013,0.561320229,0.55865727
+Machine Learning + Count Vectorizer + Text Preprocessing,Multinomial NB,0.728742914,0.635938276,0.583221626,0.592754794
+Machine Learning + Count Vectorizer + Text Preprocessing,Decision Tree,0.630876959,0.518693553,0.514049122,0.514935629
+Machine Learning + Count Vectorizer + Text Preprocessing,KNN,0.595865288,0.474970944,0.454314208,0.459113735
+Machine Learning + Count Vectorizer + Text Preprocessing,Random Forest,0.709736579,0.638145811,0.517016661,0.497503578
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,Logistic Regression,0.684228076,0.585164481,0.569403731,0.575655286
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,SVM,0.733577859,0.643228296,0.574534189,0.5724787
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,Multinomial NB,0.643547849,0.837058168,0.410293696,0.379629787
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,Decision Tree,0.621540514,0.50920919,0.503148179,0.504985825
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,KNN,0.286595532,0.439841457,0.357930429,0.219537025
+Machine Learning + TfIdf Vectorizer + Text Preprocessing,Random Forest,0.703067689,0.623617614,0.50609814,0.484193177
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,Logistic Regression,0.647882628,0.565338926,0.583677272,0.571225304
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,SVM,0.668056019,0.554119778,0.550067276,0.548402727
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,Multinomial NB,0.696565522,0.613248101,0.630541381,0.620080347
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,Decision Tree,0.574858286,0.492158347,0.505120163,0.495167359
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,KNN,0.390130043,0.4898582,0.455444369,0.391570724
+Machine Learning + Count Vectorizer + Text Preprocessing + Resampling,Random Forest,0.658552851,0.541607237,0.525235343,0.525432747
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,Logistic Regression,0.654218073,0.569901737,0.586068903,0.575694292
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,SVM,0.723741247,0.624341571,0.588873557,0.58466075
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,Multinomial NB,0.643547849,0.611344355,0.617167695,0.596156067
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,Decision Tree,0.583194398,0.492829027,0.501452044,0.495939283
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,KNN,0.273257753,0.453640229,0.356665662,0.215303765
+Machine Learning + TfIdf Vectorizer + Text Preprocessing + Resampling,Random Forest,0.688896299,0.575012479,0.540001441,0.52742234
